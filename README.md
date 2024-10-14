@@ -1,3 +1,4 @@
+
 # GitHub Activity Fetcher
 
 A command-line application to fetch and display a GitHub user's recent activity. This project allows users to quickly view a GitHub user's contributions and interactions directly from the terminal.
@@ -185,4 +186,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 3. Commit your changes (git commit -m 'Add some feature').
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a pull request.
-  
+## Project URL
+
+For more details about the GitHub User Activity project, visit: [GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity)
+
